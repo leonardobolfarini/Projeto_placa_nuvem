@@ -1,0 +1,6 @@
+opencv-python-headless
+pytesseract
+pymysql
+pyserial
+streamlink
+tesseract-ocr
